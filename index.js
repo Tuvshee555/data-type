@@ -1,4 +1,4 @@
-console.log("hello world from")
+console.log("hello world from JS")
 
 // data types //
 
